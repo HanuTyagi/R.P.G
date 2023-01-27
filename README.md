@@ -5,9 +5,9 @@ A random password generator is a tool or software program that creates a random 
 This script generates a random password of a specified length. The password can include uppercase and lowercase letters, numbers, and special characters. It uses Tkinter framework of Python for GUI.
 
 # Installation
-If you are using `R.P.G.py` script, you will need to have Python 3 and the Paperclip library installed on your system. You can install Paperclip using pip:
+If you are using `R.P.G.py` script, you will need to have Python 3 and the Pyperclip library installed on your system. You can install Pyperclip using pip:
 
-`pip install paperclip`
+`pip install pyperclip`
 
 # Usage
 To Start the `R.P.G`
